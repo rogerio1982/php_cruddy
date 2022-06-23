@@ -1,4 +1,5 @@
 <?php
+//teste
 if (file_exists("app/config.php")) {
     include("app/config.php");
 }
@@ -13,10 +14,8 @@ if (file_exists("app/config.php")) {
 
     <style type="text/css">
         table tr td:last-child a {
-            margin-right: 16px;
-
-          
-        }  
+            margin-right: 15px;
+        }
     </style>
 </head>
 <div class="container">

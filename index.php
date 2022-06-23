@@ -13,8 +13,10 @@ if (file_exists("app/config.php")) {
 
     <style type="text/css">
         table tr td:last-child a {
-            margin-right: 15px;
-        }
+            margin-right: 16px;
+
+          
+        }  
     </style>
 </head>
 <div class="container">

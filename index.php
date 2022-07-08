@@ -1,5 +1,5 @@
 <?php
-//teste222
+//test
 if (file_exists("app/config.php")) {
     include("app/config.php");
 }
